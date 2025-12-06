@@ -14,4 +14,5 @@ AI & DS Student @ Velalar College,Data Science student @ IIT Madras
 
 
 ![Jayanithyan's GitHub stats](https://github-readme-activity-graph.vercel.app/graph?username=jayanithyan&bg_color=0e0c0d&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)
+##LeetCode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/jayanithyan1?theme=nord&font=Fredericka%20the%20Great&ext=heatmap)
