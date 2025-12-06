@@ -18,5 +18,3 @@ AI & DS Student @ velalar college,Data Science student @ IIT Madras
 ![Jayanithyan's GitHub stats](https://github-readme-activity-graph.vercel.app/graph?username=jayanithyan&bg_color=0e0c0d&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)
 
 [![Leetcode Stats](![LeetCode Stats](https://leetcard.jacoblin.cool/jayanithyan1?theme=nord&font=Fredericka%20the%20Great&ext=heatmap)
-
-[![Hareesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hareesh-r&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
