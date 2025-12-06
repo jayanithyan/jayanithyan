@@ -1,6 +1,6 @@
 ## Hi there 👋 It's me Jayanithyan M R
 
-AI & DS Student @ velalar college,Data Science student @ IIT Madras
+AI & DS Student @ Velalar College,Data Science student @ IIT Madras
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">                                           
 - 🌱 I’m currently learning and Teaching DSA and Integrating AI to my workflow
 - ⚡ Fun fact: I know Japanese.
