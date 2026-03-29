@@ -1,4 +1,4 @@
-## Hi there 👋 It's me Jayanithyan M R
+<img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/f39e3f19-36b2-48e9-8149-cbffa69e79a7" />## Hi there 👋 It's me Jayanithyan M R
 <p align="center">
 	<a href="https://github.com/jayanithyan">
 		<img src="https://komarev.com/ghpvc/?username=jayanithyan&label=Profile%20views&color=0e75b6&style=flat" alt="gokul-1998" />
@@ -20,7 +20,7 @@ Data Science student @ IIT Madras, AI & DS Student @ Velalar College
 <img height="50" width="50" src="https://img.icons8.com/?size=100&id=vR6XrZzQr1CN&format=png&color=000000"/> <img height="50" width="50" src="https://img.icons8.com/?size=100&id=39913&format=png&color=000000"/> 
 
 ### IDE and Tools I Use
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/> <img height="50" width="50" src="https://img.icons8.com/doodle/48/000000/adobe-photoshop.png"/> <img height="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/> <img height="50" src="https://img.icons8.com/?size=100&id=F7REdHlg6KJX&format=png&color=000000"/> 
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/> <img height="50" width="50" src="https://img.icons8.com/doodle/48/000000/adobe-photoshop.png"/> <img height="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/> <img height="50" src="https://img.icons8.com/?size=100&id=F7REdHlg6KJX&format=png&color=000000"/><img height="50" src="https://img.icons8.com/?size=100&id=22813&format=png&color=000000"/>  
 
 
 ![Jayanithyan's GitHub stats](https://github-readme-activity-graph.vercel.app/graph?username=jayanithyan&bg_color=0e0c0d&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)
