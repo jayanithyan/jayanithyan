@@ -1,4 +1,12 @@
 ## Hi there 👋 It's me Jayanithyan M R
+<p align="center">
+	<a href="https://github.com/jayanithyan">
+		<img src="https://komarev.com/ghpvc/?username=jayanithyan&label=Profile%20views&color=0e75b6&style=flat" alt="gokul-1998" />
+	</a>
+	<a href="https://github.com/jayanithyan">
+		<img src="https://img.shields.io/github/followers/jayanithyan?label=Followers" alt="jayanithyan" />
+	</a>
+</p>
 
 Data Science student @ IIT Madras, AI & DS Student @ Velalar College
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">                                           
