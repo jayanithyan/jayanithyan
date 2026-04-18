@@ -17,27 +17,26 @@ Data Science student @ IIT Madras, AI & DS Student @ Velalar College
 
 ### I code in
 <p align="left">
-  <img height="50" width="50" src="https://img.icons8.com/color/48/python.png"/>
-  <img height="50" width="50" src="https://img.icons8.com/color/48/c-programming.png"/>
-  <img height="50" width="50" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/>
-  <img height="50" width="50" src="https://img.icons8.com/color/48/html-5.png"/>
-  <img height="50" width="50" src="https://img.icons8.com/color/48/css3.png"/>
-  <img height="50" width="50" src="https://img.icons8.com/?size=100&id=wPohyHO_qO1a&format=png&color=000000"/> <br/>
-  <img height="50" width="50" src="https://img.icons8.com/?size=100&id=vR6XrZzQr1CN&format=png&color=000000"/>
-  <img height="50" width="50" src="https://img.icons8.com/?size=100&id=8ljTDYUEydbJ&format=png&color=000000"/>
-  <img height="50" width="50" src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000"/>
+  <img src="https://img.icons8.com/color/48/python.png" width="40"/>
+  <img src="https://img.icons8.com/color/48/c-programming.png" width="40"/>
+  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" width="40"/>
+  <img src="https://img.icons8.com/color/48/html-5.png" width="40"/>
+  <img src="https://img.icons8.com/color/48/css3.png" width="40"/>
+  <img src="https://img.icons8.com/?size=100&id=wPohyHO_qO1a&format=png&color=000000" width="40"/>
+  <img src="https://img.icons8.com/?size=100&id=vR6XrZzQr1CN&format=png&color=000000" width="40"/>
+  <img src="https://img.icons8.com/?size=100&id=8ljTDYUEydbJ&format=png&color=000000" width="40"/>
+  <img src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" width="40"/>
 </p>
 
 ### IDE and Tools I Use
 <p align="left">
-  <img height="50" width="50" src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/>
-  <img height="50" width="50" src="https://img.icons8.com/color/48/pycharm.png"/>
-  <img height="50" width="50" src="https://img.icons8.com/color/50/git.png"/>
-  <img height="50" src="https://img.icons8.com/officel/480/java-eclipse.png"/>
-  <img height="50" width="50" src="https://img.icons8.com/doodle/48/adobe-photoshop.png"/>
-  <img height="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
-  <img height="50" src="https://img.icons8.com/?size=100&id=F7REdHlg6KJX&format=png&color=000000"/>
-  <img height="50" src="https://img.icons8.com/?size=100&id=22813&format=png&color=000000"/>
+  <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" width="40"/>
+  <img src="https://img.icons8.com/color/48/pycharm.png" width="40"/>
+  <img src="https://img.icons8.com/color/50/git.png" width="40"/>
+  <img src="https://img.icons8.com/officel/480/java-eclipse.png" width="40"/>
+  <img src="https://img.icons8.com/doodle/48/adobe-photoshop.png" width="40"/>
+  <img src="https://img.icons8.com/?size=100&id=F7REdHlg6KJX&format=png&color=000000" width="40"/>
+  <img src="https://img.icons8.com/?size=100&id=22813&format=png&color=000000" width="40"/>
 </p>
 
 
