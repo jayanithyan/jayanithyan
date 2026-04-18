@@ -22,7 +22,7 @@ Data Science student @ IIT Madras, AI & DS Student @ Velalar College
   <img height="50" width="50" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/>
   <img height="50" width="50" src="https://img.icons8.com/color/48/html-5.png"/>
   <img height="50" width="50" src="https://img.icons8.com/color/48/css3.png"/>
-  <img height="50" width="50" src="https://img.icons8.com/?size=100&id=wPohyHO_qO1a&format=png&color=000000"/>
+  <img height="50" width="50" src="https://img.icons8.com/?size=100&id=wPohyHO_qO1a&format=png&color=000000"/> <br/>
   <img height="50" width="50" src="https://img.icons8.com/?size=100&id=vR6XrZzQr1CN&format=png&color=000000"/>
   <img height="50" width="50" src="https://img.icons8.com/?size=100&id=8ljTDYUEydbJ&format=png&color=000000"/>
   <img height="50" width="50" src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000"/>
