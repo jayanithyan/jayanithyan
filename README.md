@@ -37,7 +37,7 @@ Data Science student @ IIT Madras, AI & DS Student @ Velalar College
   <img src="https://img.icons8.com/doodle/48/adobe-photoshop.png" width="40"/>
   <img src="https://img.icons8.com/?size=100&id=F7REdHlg6KJX&format=png&color=000000" width="40"/>
   <img src="https://img.icons8.com/?size=100&id=22813&format=png&color=000000" width="40"/>
-<img src="https://img.icons8.com/?size=100&id=22813&format=png&color=000000" width="40"/>
+ <img src="https://img.icons8.com/?size=100&id=IoYmHUxgvrFB&format=png&color=000000" width="40"/>
 </p>
 
 
