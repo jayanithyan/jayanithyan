@@ -1,5 +1,6 @@
 from pathlib import Path
 from PIL import Image, ImageOps
+from html import escape
 
 INPUT = Path("source-prepped.png")
 OUTPUT = Path("avi-ascii.svg")
@@ -12,15 +13,16 @@ RAMP = " .`:-=+*cs#%@"
 
 image = Image.open(INPUT).convert("L")
 
-# Crop away most of the white background
+# Remove large white margins around the subject
 bbox = ImageOps.invert(image).getbbox()
 
 if bbox:
     image = image.crop(bbox)
 
-# Resize while compensating for character aspect ratio
-aspect = image.height / image.width
-height = max(1, int(WIDTH * aspect * 0.48))
+# Preserve the portrait proportions while compensating
+# for the height of monospace characters.
+aspect_ratio = image.height / image.width
+height = max(1, int(WIDTH * aspect_ratio * 0.48))
 
 image = image.resize((WIDTH, height))
 
@@ -29,77 +31,82 @@ pixels = image.load()
 rows = []
 
 for y in range(height):
-    row = ""
+    row = []
 
     for x in range(WIDTH):
         brightness = pixels[x, y]
+
         index = int((255 - brightness) / 256 * len(RAMP))
         index = min(index, len(RAMP) - 1)
-        row += RAMP[index]
 
-    rows.append(row)
+        row.append(RAMP[index])
+
+    rows.append("".join(row))
+
 
 svg_width = WIDTH * FONT_SIZE
 svg_height = height * LINE_HEIGHT + 20
 
-svg = []
+svg = [
+    f'''<svg xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xml:space="preserve"
+    viewBox="0 0 {svg_width} {svg_height}"
+    width="{svg_width}"
+    height="{svg_height}">''',
 
-svg.append(
-    f'<svg xmlns="http://www.w3.org/2000/svg" '
-    f'viewBox="0 0 {svg_width} {svg_height}" '
-    f'width="{svg_width}" height="{svg_height}">'
-)
+    """
+    <style>
+        .ascii {
+            font-family: "Courier New", monospace;
+            font-size: 8px;
+            font-weight: bold;
+            fill: #444;
+        }
 
-svg.append("""
-<style>
-.ascii {
-    font-family: "Courier New", monospace;
-    font-size: 8px;
-    font-weight: bold;
-    fill: #444;
-}
+        .row {
+            opacity: 0;
+            animation: reveal 0.7s ease-out forwards;
+        }
 
-.row {
-    animation: reveal 0.8s ease-out forwards;
-    opacity: 0;
-}
+        @keyframes reveal {
+            from {
+                opacity: 0;
+                transform: translateX(-8px);
+            }
 
-@keyframes reveal {
-    from {
-        opacity: 0;
-        transform: translateX(-8px);
-    }
-    to {
-        opacity: 1;
-        transform: translateX(0);
-    }
-}
-</style>
-""")
+            to {
+                opacity: 1;
+                transform: translateX(0);
+            }
+        }
+    </style>
+    """,
 
-svg.append(
     '<rect width="100%" height="100%" fill="white"/>'
-)
+]
+
 
 for y, row in enumerate(rows):
-    escaped = (
-        row.replace("&", "&amp;")
-           .replace("<", "&lt;")
-           .replace(">", "&gt;")
-    )
 
     delay = y * 0.035
     y_position = 12 + y * LINE_HEIGHT
 
     svg.append(
-        f'<text class="ascii row" '
-        f'x="0" y="{y_position}" '
-        f'style="animation-delay:{delay:.3f}s">'
-        f'{escaped}</text>'
+        f'''<text
+            class="ascii row"
+            x="0"
+            y="{y_position}"
+            xml:space="preserve"
+            style="animation-delay:{delay:.3f}s">{escape(row)}</text>'''
     )
+
 
 svg.append("</svg>")
 
-OUTPUT.write_text("\n".join(svg), encoding="utf-8")
+OUTPUT.write_text(
+    "\n".join(svg),
+    encoding="utf-8"
+)
 
 print(f"Created: {OUTPUT}")
