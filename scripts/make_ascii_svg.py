@@ -61,7 +61,7 @@ svg = [
             font-family: "Courier New", monospace;
             font-size: 8px;
             font-weight: bold;
-            fill: #444;
+            fill: #c9d1d9;
         }
 
         .row {
@@ -83,7 +83,6 @@ svg = [
     </style>
     """,
 
-    '<rect width="100%" height="100%" fill="white"/>'
 ]
 
 
