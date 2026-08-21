@@ -7,9 +7,6 @@
   <a href="https://github.com/jayanithyan?tab=followers">
     <img src="https://img.shields.io/github/followers/jayanithyan?label=Followers&style=flat" alt="Followers"/>
   </a>
-  <a href="https://github.com/jayanithyan?tab=repositories">
-    <img src="https://img.shields.io/github/stars/jayanithyan?label=Stars&style=flat" alt="Stars"/>
-  </a>
 </p>
 
 <p align="center">
@@ -32,13 +29,13 @@ Indian Institute of Technology Madras
 
 🧠 Working on **DSA, algorithms and problem solving**
 
-🚀 Building projects to understand how real software systems work
+🚀 Building real-world applications to understand software beyond the classroom
 
 🤖 Exploring **AI engineering and practical AI applications**
 
 ⚙️ Interested in **backend architecture, system design and scalable systems**
 
-🌱 Learning continuously through projects, experiments and problem solving.
+📚 Learning continuously through projects, experiments and problem solving.
 
 <br clear="right"/>
 
@@ -173,7 +170,7 @@ An AI-focused project exploring intelligent text analysis and practical applicat
 
 ### ⚡ FastAPI Backend
 
-A backend project focused on API architecture, authentication, database integration and building a structured application backend.
+A backend project focused on API architecture, authentication, database integration and structured backend development.
 
 **Tech:** `Python` `FastAPI` `REST API` `Database` `Docker`
 
@@ -203,65 +200,9 @@ A management application developed as part of my Modern Application Development 
 
 ---
 
-# 📊 GitHub Statistics
-
-<p align="center">
-  <a href="https://github.com/jayanithyan">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=jayanithyan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
-  </a>
-
-  <a href="https://github.com/jayanithyan">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayanithyan&layout=donut&theme=tokyonight&hide_border=true&langs_count=8"/>
-  </a>
-</p>
-
-> The language card represents the languages detected in your GitHub repositories; it is a measure of repository code usage, not a measure of proficiency.
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=jayanithyan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Profile Trophies"/>
-  </a>
-</p>
-
----
-
-# 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jayanithyan&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="GitHub Contribution Activity"/>
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-            srcset="https://raw.githubusercontent.com/jayanithyan/jayanithyan/output/github-contribution-grid-snake-dark.svg">
-
-```
-<source media="(prefers-color-scheme: light)"
-        srcset="https://raw.githubusercontent.com/jayanithyan/jayanithyan/output/github-contribution-grid-snake.svg">
-
-<img src="https://raw.githubusercontent.com/jayanithyan/jayanithyan/output/github-contribution-grid-snake.svg"
-     alt="GitHub Contribution Snake">
-```
-
-  </picture>
-</p>
-
----
-
 # 🎯 2026 Focus
 
 ### 🤖 AI & Data
-
-Going deeper into:
 
 `Machine Learning` • `Data Science` • `AI Engineering` • `LLM Applications`
 
@@ -269,47 +210,37 @@ Building practical AI systems and understanding how intelligent components fit i
 
 ### ⚙️ Software Engineering
 
-Exploring:
-
 `System Design` • `Backend Architecture` • `Distributed Systems` • `Scalability`
 
 Moving from simply building applications toward understanding how larger software systems are designed.
 
 ### 🧠 Problem Solving
 
-Strengthening:
-
 `DSA` • `Algorithms` • `Problem Solving`
 
-The goal is to become better at approaching unfamiliar problems rather than simply increasing the number of solved questions.
+Strengthening algorithmic thinking and becoming better at approaching unfamiliar problems.
 
 ### 🚀 Building
 
-Focusing on:
-
 `Real-World Projects` • `Open Source` • `Hackathons` • `Technical Experiments`
+
+Learning by building, debugging and continuously improving.
 
 ---
 
 # 🌱 Currently Exploring
 
-```text
-AI Engineering
-      │
-      ├── Machine Learning
-      ├── LLM Applications
-      └── AI-powered Software
+<p align="center">
 
-Software Engineering
-      │
-      ├── Backend Architecture
-      ├── System Design
-      └── Distributed Systems
+<img src="https://img.shields.io/badge/AI%20Engineering-0e75b6?style=flat-square"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-0e75b6?style=flat-square"/>
+<img src="https://img.shields.io/badge/Data%20Science-0e75b6?style=flat-square"/>
+<img src="https://img.shields.io/badge/System%20Design-0e75b6?style=flat-square"/>
+<img src="https://img.shields.io/badge/Distributed%20Systems-0e75b6?style=flat-square"/>
+<img src="https://img.shields.io/badge/DSA-0e75b6?style=flat-square"/>
+<img src="https://img.shields.io/badge/Open%20Source-0e75b6?style=flat-square"/>
 
-Problem Solving
-      │
-      └── DSA & Algorithms
-```
+</p>
 
 ---
 
