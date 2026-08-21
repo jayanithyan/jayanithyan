@@ -13,207 +13,180 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Student;Learning+DSA+%26+Backend+Development;Building+with+Python+%26+FastAPI;Exploring+AI+%26+Full+Stack+Development" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=2800&pause=1000&color=0E75B6&center=true&vCenter=true&width=750&lines=AI+%26+Data+Science+Student;Software+Developer+in+Progress;Problem+Solver+%7C+Builder+%7C+Learner;Exploring+AI%2C+Data+%26+Software+Engineering" alt="Typing SVG"/>
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-<img align="right" width="350" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+<img align="right" width="360" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
-🎓 **B.Tech AI & Data Science**
+🎓 **B.Tech in Artificial Intelligence & Data Science**
 Velalar College of Engineering and Technology
 
-🎓 **BS Data Science & Applications**
+🎓 **BS in Data Science & Applications**
 Indian Institute of Technology Madras
 
-💻 I enjoy building things with **Python, Java and C**
+💻 Interested in **software engineering, AI and data**
 
-🧠 Currently strengthening my **DSA & problem-solving skills**
+🧠 Actively improving **problem-solving and DSA**
 
-⚡ Building backend applications using **FastAPI**
+🚀 Building real projects to understand how systems work beyond the classroom
 
-🌐 Learning **React** and full-stack development
+🤖 Exploring the intersection of **AI and software development**
 
-🤖 Exploring how **AI can be integrated into real applications**
+⚙️ Interested in **backend systems, scalable applications and modern engineering practices**
 
-🐳 Getting familiar with **Docker and modern development tools**
-
-📈 Trying to become a better developer one project at a time.
+📚 Always learning something new and turning it into a project.
 
 <br clear="right"/>
 
 ---
 
-# 🚀 What I'm Currently Learning
+## ⚡ What I'm Into
 
-### 🧠 DSA & Problem Solving
-
-Currently working on:
-
-`Arrays` → `Strings` → `Hashing` → `Two Pointers` → `Sliding Window` → `Stacks` → `Queues` → `Linked Lists` → `Trees` → `Graphs` → `Dynamic Programming`
-
-My focus is not just solving more problems.
-
-> **Understand the pattern → implement it → analyze it → solve variations.**
-
----
-
-### ⚙️ Backend Development
-
-Currently learning and building with:
-
-`Python` → `FastAPI` → `REST APIs` → `CRUD` → `Authentication` → `Databases` → `Docker`
-
-I'm gradually moving from simple APIs toward understanding how real backend applications are structured.
+```text
+Software Engineering     → Building applications & understanding systems
+Artificial Intelligence  → Applying AI to practical problems
+Data Science             → Working with data, analysis & intelligent systems
+Problem Solving          → DSA, algorithms & competitive programming
+Backend Engineering      → APIs, databases & application architecture
+Open Source              → Learning through real-world code
+```
 
 ---
 
-### 🌐 Full Stack Development
+# 🛠️ Tech Stack
 
-Learning how the frontend and backend work together:
-
-`HTML` → `CSS` → `JavaScript` → `React` → `FastAPI`
-
----
-
-### 🤖 AI
-
-Exploring:
-
-`Python` → `Data Science` → `Machine Learning` → `AI APIs` → `AI-powered Applications`
-
-My current interest is understanding how AI can be used **inside real software applications**, not just training models.
-
----
-
-# 🛠️ My Tech Stack
-
-### 👨‍💻 Languages
+### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,c" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,javascript" />
 </p>
 
-### 🌐 Web Development
+### AI / Data Science
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+`NumPy` `Pandas` `Matplotlib` `Scikit-learn`
+
+### Frontend
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,javascript,react" />
 </p>
 
-### ⚡ Backend
+### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi" />
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs" />
 </p>
 
-### 🗄️ Databases
+`REST APIs` `CRUD` `Authentication` `WebSockets`
+
+### Databases & Infrastructure
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,redis,docker,nginx" />
 </p>
 
-### 🐳 Tools I'm Learning
+### Distributed / Modern Backend Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=kafka,kubernetes" />
+</p>
+
+`Microservices` `Event-Driven Architecture` `Rate Limiting` `RBAC`
+
+### Developer Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 </p>
 
 ---
 
-# 📚 Currently Exploring
+# 🚀 What I Build
 
-```text
-DSA & Problem Solving
-        ↓
-Backend Development
-        ↓
-FastAPI & REST APIs
-        ↓
-Databases
-        ↓
-React & Full Stack
-        ↓
-Docker & Deployment
-        ↓
-AI Integration
-```
+I like projects that go beyond simply demonstrating a framework.
 
-I'm building these skills step by step rather than trying to learn everything at once.
+My projects are focused on understanding how different parts of a software system fit together:
 
----
+**Frontend → API → Business Logic → Database → Caching → Communication → Deployment**
 
-# 💻 Projects
+Some of the areas I experiment with:
 
-### 🚀 FastAPI Backend
-
-A backend project built while learning **FastAPI and backend development**, covering API design, CRUD operations and structured backend development.
-
-**Tech:** Python • FastAPI • REST API
+* Backend applications
+* Full-stack applications
+* REST APIs
+* Real-time communication
+* Database-driven systems
+* AI-powered applications
+* Automation
+* Containerized applications
+* Service-oriented architectures
 
 ---
 
-### 🌐 Full Stack Applications
+# 📌 Featured Projects
 
-Building applications to understand how a **React frontend communicates with a Python backend**.
+### 🔥 FastAPI Backend System
 
-**Tech:** React • JavaScript • FastAPI • Python
+A backend-focused project where I'm exploring API design, application structure, authentication, database integration and production-oriented development.
+
+**Python • FastAPI • Database • Docker**
+
+---
+
+### 🧩 Full-Stack Applications
+
+Projects combining modern frontend development with Python-based backend services.
+
+**React • JavaScript • FastAPI • REST APIs**
 
 ---
 
 ### 🥾 Trekking Management Application
 
-A management application developed as part of my **Modern Application Development** coursework.
+A complete application developed as part of my Modern Application Development coursework.
 
-**Tech:** Python • FastAPI • HTML • CSS • JavaScript
+**Python • FastAPI • HTML • CSS • JavaScript**
 
 ---
 
 ### 🤖 AI Experiments
 
-Small projects and experiments focused on understanding how **AI can be integrated into applications and developer workflows**.
+Experiments around integrating AI capabilities into software applications rather than treating AI as an isolated model.
 
-**Tech:** Python • AI APIs • Automation
+**Python • AI • APIs • Automation**
 
 ---
 
-# 🧩 Problem Solving
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/jayanithyan1?theme=nord&font=Fira%20Code&ext=heatmap" alt="Jayanithyan's LeetCode Stats"/>
-</p>
+# 🧠 Problem Solving
 
 <p align="center">
   <a href="https://leetcode.com/u/jayanithyan1/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+    <img src="https://leetcard.jacoblin.cool/jayanithyan1?theme=nord&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats"/>
   </a>
 </p>
 
-### 🎯 My DSA Approach
-
-```text
-Learn the concept
-       ↓
-Understand the pattern
-       ↓
-Solve an easy problem
-       ↓
-Solve variations
-       ↓
-Analyze complexity
-       ↓
-Revisit after some time
-```
+I use DSA primarily to strengthen **algorithmic thinking, problem solving and coding fundamentals**.
 
 ---
 
-# 📊 GitHub Activity
+# 📊 GitHub Stats
 
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=jayanithyan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayanithyan&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
+
+---
+
+# 📈 Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jayanithyan&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
@@ -227,87 +200,56 @@ Revisit after some time
   <picture>
     <source media="(prefers-color-scheme: dark)"
             srcset="https://raw.githubusercontent.com/jayanithyan/jayanithyan/output/github-contribution-grid-snake-dark.svg">
-
-```
-<source media="(prefers-color-scheme: light)"
-        srcset="https://raw.githubusercontent.com/jayanithyan/jayanithyan/output/github-contribution-grid-snake.svg">
-
-<img alt="GitHub Contribution Snake"
-     src="https://raw.githubusercontent.com/jayanithyan/jayanithyan/output/github-contribution-grid-snake.svg">
-```
-
+    <source media="(prefers-color-scheme: light)"
+            srcset="https://raw.githubusercontent.com/jayanithyan/jayanithyan/output/github-contribution-grid-snake.svg">
+    <img src="https://raw.githubusercontent.com/jayanithyan/jayanithyan/output/github-contribution-grid-snake.svg"
+         alt="GitHub Contribution Snake">
   </picture>
 </p>
 
 ---
 
-# 🎯 2026 Goals
+# 🎯 2026 Focus
 
-### 🧠 DSA
+### 🧠 Engineering
 
-* Build strong fundamentals instead of memorizing solutions
-* Become comfortable with common DSA patterns
-* Solve problems consistently on LeetCode
-* Improve from easy → medium problems
-* Start recognizing patterns without immediately looking at solutions
+* Strengthen problem-solving and algorithmic thinking
+* Build more substantial software projects
+* Write cleaner, maintainable and scalable code
+* Understand software architecture instead of only learning frameworks
+* Improve system design fundamentals
 
-### 💻 Development
+### 🤖 AI & Data
 
-* Become comfortable building complete FastAPI applications
-* Build better REST APIs
-* Understand authentication and authorization
-* Work confidently with databases
-* Connect React frontends with FastAPI backends
-* Dockerize my projects
-* Deploy a few projects publicly
+* Go deeper into machine learning and data science
+* Build practical AI-powered applications
+* Understand how AI systems integrate with real software
+* Experiment with LLMs, AI APIs and intelligent automation
+* Work on projects where AI solves an actual problem
 
-### 🤖 AI
+### ⚙️ Systems
 
-* Strengthen Python for AI/Data Science
-* Understand ML fundamentals properly
-* Build a few practical AI projects
-* Learn how to integrate AI APIs into applications
-* Experiment with AI-assisted development
+* Develop a stronger understanding of backend architecture
+* Explore distributed systems concepts
+* Understand asynchronous and event-driven applications
+* Learn more about scalability, caching and communication between services
+* Move from individual applications toward understanding larger systems
 
-### 🚀 Personal Growth
+### 🚀 Career & Open Source
 
-* Build projects consistently
-* Write cleaner and more maintainable code
-* Improve Git & GitHub workflow
-* Contribute to open-source projects
-* Participate in hackathons and technical events
-* Build a stronger developer portfolio
+* Build a strong engineering portfolio
+* Contribute to meaningful open-source projects
+* Participate in hackathons and technical competitions
+* Collaborate on real-world projects
+* Prepare for strong software engineering / AI opportunities
 
 ---
 
-# 🗺️ My Learning Journey
+# 📚 Currently Exploring
 
-```text
-                    AI & DATA SCIENCE
-                           │
-              ┌────────────┴────────────┐
-              │                         │
-             DSA                    DEVELOPMENT
-              │                         │
-              ▼                         ▼
-        Problem Solving              Python
-              │                         │
-              ▼                       FastAPI
-          Algorithms                    │
-              │                         ▼
-              ▼                     Databases
-         LeetCode                       │
-                                        ▼
-                                      React
-                                        │
-                                        ▼
-                                      Docker
-                                        │
-                                        ▼
-                                 AI Integration
-```
-
-> **One step at a time. Building the fundamentals before chasing complexity.**
+`Artificial Intelligence` • `Machine Learning` • `Data Science`
+`Software Engineering` • `System Design` • `Distributed Systems`
+`Backend Architecture` • `AI Engineering` • `DSA`
 
 ---
 
@@ -332,9 +274,9 @@ Revisit after some time
 ---
 
 <p align="center">
-  <b>💻 Learn → Build → Break → Fix → Repeat</b>
+  <b>Build things. Break things. Understand why. Build better.</b>
 </p>
 
 <p align="center">
-  <i>Still learning. Still building. Still getting better.</i>
+  <i>Learning continuously. Building intentionally.</i>
 </p>
