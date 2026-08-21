@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=2800&pause=1000&color=0E75B6&center=true&vCenter=true&width=760&lines=AI+%26+Data+Science+Student;Software+Engineering+%7C+AI+%7C+Data;Building+Real+Projects;Problem+Solver+%7C+Builder+%7C+Learner" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=2800&pause=1000&color=0E75B6&center=true&vCenter=true&width=760&lines=AI+%26+Data+Science+Student;Software+Engineering+%7C+AI+%7C+Data;Building+Real+Projects;Problem+Solver+%7C+Builder+%7C+Learner" alt="Typing Animation"/>
 </p>
 
 ---
@@ -27,7 +27,7 @@ Indian Institute of Technology Madras
 
 💻 Interested in **Software Engineering, AI & Data**
 
-🧠 Working on **DSA, algorithms and problem solving**
+🧠 Strengthening **DSA, algorithms and problem solving**
 
 🚀 Building real-world applications to understand software beyond the classroom
 
@@ -69,7 +69,7 @@ Indian Institute of Technology Madras
   <img src="https://skillicons.dev/icons?i=python,java,c,javascript" />
 </p>
 
-### 🤖 AI & Data
+### 🤖 AI & Data Science
 
 `NumPy` `Pandas` `Matplotlib` `Scikit-learn`
 
@@ -188,13 +188,30 @@ A management application developed as part of my Modern Application Development 
 
 <p align="center">
   <a href="https://leetcode.com/u/jayanithyan1/">
-    <img src="https://leetcard.jacoblin.cool/jayanithyan1?theme=nord&font=Fira%20Code&ext=heatmap" alt="Jayanithyan's LeetCode Stats"/>
+    <img
+      src="https://leetcard.jacoblin.cool/jayanithyan1?theme=nord&font=Fira%20Code&ext=heatmap"
+      alt="Jayanithyan's LeetCode Stats"
+    />
   </a>
 </p>
 
 <p align="center">
   <a href="https://leetcode.com/u/jayanithyan1/">
     <img src="https://img.shields.io/badge/Visit%20My%20LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+</p>
+
+---
+
+# 📈 GitHub Activity
+
+<p align="center">
+  <a href="https://github.com/jayanithyan">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=jayanithyan&theme=tokyo-night&hide_border=true&area=true&custom_title=Jayanithyan%27s%20GitHub%20Activity"
+      width="95%"
+      alt="Jayanithyan's GitHub Activity Graph"
+    />
   </a>
 </p>
 
