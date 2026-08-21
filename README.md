@@ -28,44 +28,43 @@ Velalar College of Engineering and Technology
 🎓 **BS in Data Science & Applications**
 Indian Institute of Technology Madras
 
-💻 Interested in **software engineering, AI and data**
+💻 Interested in **Software Engineering, AI & Data**
 
-🧠 Actively improving **problem-solving and DSA**
+🧠 Improving **DSA, algorithms and problem-solving**
 
-🚀 Building real projects to understand how systems work beyond the classroom
+🚀 Building real-world applications to understand software beyond the classroom
 
-🤖 Exploring the intersection of **AI and software development**
+🤖 Exploring the intersection of **AI and software engineering**
 
-⚙️ Interested in **backend systems, scalable applications and modern engineering practices**
+⚙️ Interested in **backend systems, architecture and scalable applications**
 
-📚 Always learning something new and turning it into a project.
+📚 Learning continuously and turning what I learn into projects.
 
 <br clear="right"/>
 
 ---
 
-## ⚡ What I'm Into
+# ⚡ What I'm Into
 
-```text
-Software Engineering     → Building applications & understanding systems
-Artificial Intelligence  → Applying AI to practical problems
-Data Science             → Working with data, analysis & intelligent systems
-Problem Solving          → DSA, algorithms & competitive programming
-Backend Engineering      → APIs, databases & application architecture
-Open Source              → Learning through real-world code
-```
+<p align="center">
+
+`Artificial Intelligence` • `Data Science` • `Software Engineering`
+`Backend Development` • `System Design` • `Distributed Systems`
+`DSA & Algorithms` • `AI Engineering` • `Open Source`
+
+</p>
 
 ---
 
 # 🛠️ Tech Stack
 
-### Languages
+### 👨‍💻 Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,c,javascript" />
 </p>
 
-### AI / Data Science
+### 🤖 AI & Data Science
 
 <p>
   <img src="https://skillicons.dev/icons?i=python" />
@@ -73,35 +72,35 @@ Open Source              → Learning through real-world code
 
 `NumPy` `Pandas` `Matplotlib` `Scikit-learn`
 
-### Frontend
+### 🌐 Frontend
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,javascript,react" />
 </p>
 
-### Backend
+### ⚡ Backend
 
 <p>
   <img src="https://skillicons.dev/icons?i=fastapi,nodejs" />
 </p>
 
-`REST APIs` `CRUD` `Authentication` `WebSockets`
+`REST APIs` `WebSockets` `Authentication`
 
-### Databases & Infrastructure
+### 🗄️ Databases & Infrastructure
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,redis,docker,nginx" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,redis" />
 </p>
 
-### Distributed / Modern Backend Technologies
+### ☁️ DevOps & Systems
 
 <p>
-  <img src="https://skillicons.dev/icons?i=kafka,kubernetes" />
+  <img src="https://skillicons.dev/icons?i=docker,nginx,kafka,kubernetes" />
 </p>
 
 `Microservices` `Event-Driven Architecture` `Rate Limiting` `RBAC`
 
-### Developer Tools
+### 🔧 Developer Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
@@ -111,18 +110,28 @@ Open Source              → Learning through real-world code
 
 # 🚀 What I Build
 
-I like projects that go beyond simply demonstrating a framework.
+I enjoy building projects that help me understand how different parts of a software system work together.
 
-My projects are focused on understanding how different parts of a software system fit together:
+```text
+Frontend
+   ↓
+API
+   ↓
+Business Logic
+   ↓
+Database
+   ↓
+Caching / Communication
+   ↓
+Deployment
+```
 
-**Frontend → API → Business Logic → Database → Caching → Communication → Deployment**
+My projects currently explore:
 
-Some of the areas I experiment with:
-
-* Backend applications
 * Full-stack applications
+* Backend systems
 * REST APIs
-* Real-time communication
+* Real-time applications
 * Database-driven systems
 * AI-powered applications
 * Automation
@@ -133,55 +142,65 @@ Some of the areas I experiment with:
 
 # 📌 Featured Projects
 
-### 🔥 FastAPI Backend System
+### 🤖 Aura AI Assistant
 
-A backend-focused project where I'm exploring API design, application structure, authentication, database integration and production-oriented development.
+An AI-powered accessibility-focused assistant designed to help users interact with technology through intelligent voice and AI-based assistance.
 
-**Python • FastAPI • Database • Docker**
+**Focus:** AI • Accessibility • Voice Interaction • Automation
 
 ---
 
-### 🧩 Full-Stack Applications
+### 🛡️ TexGuard AI
 
-Projects combining modern frontend development with Python-based backend services.
+An AI-powered project focused on applying intelligent text analysis to solve a practical problem.
 
-**React • JavaScript • FastAPI • REST APIs**
+**Focus:** AI • NLP • Text Analysis • Machine Learning
+
+---
+
+### ⚡ FastAPI Backend
+
+A backend-focused project built to explore API architecture, authentication, database integration and production-oriented backend development.
+
+**Tech:** Python • FastAPI • REST APIs • Database • Docker
 
 ---
 
 ### 🥾 Trekking Management Application
 
-A complete application developed as part of my Modern Application Development coursework.
+A complete management application developed as part of my Modern Application Development coursework.
 
-**Python • FastAPI • HTML • CSS • JavaScript**
-
----
-
-### 🤖 AI Experiments
-
-Experiments around integrating AI capabilities into software applications rather than treating AI as an isolated model.
-
-**Python • AI • APIs • Automation**
+**Tech:** Python • FastAPI • HTML • CSS • JavaScript
 
 ---
 
-# 🧠 Problem Solving
+# 🧠 LeetCode
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/jayanithyan1?theme=nord&font=Fira%20Code&ext=heatmap" alt="Jayanithyan's LeetCode Stats"/>
+</p>
 
 <p align="center">
   <a href="https://leetcode.com/u/jayanithyan1/">
-    <img src="https://leetcard.jacoblin.cool/jayanithyan1?theme=nord&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats"/>
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
 </p>
 
-I use DSA primarily to strengthen **algorithmic thinking, problem solving and coding fundamentals**.
-
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Statistics
 
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=jayanithyan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayanithyan&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayanithyan&layout=donut&theme=tokyonight&hide_border=true&langs_count=8"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jayanithyan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
 </p>
 
 ---
@@ -200,56 +219,69 @@ I use DSA primarily to strengthen **algorithmic thinking, problem solving and co
   <picture>
     <source media="(prefers-color-scheme: dark)"
             srcset="https://raw.githubusercontent.com/jayanithyan/jayanithyan/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)"
-            srcset="https://raw.githubusercontent.com/jayanithyan/jayanithyan/output/github-contribution-grid-snake.svg">
-    <img src="https://raw.githubusercontent.com/jayanithyan/jayanithyan/output/github-contribution-grid-snake.svg"
-         alt="GitHub Contribution Snake">
+
+```
+<source media="(prefers-color-scheme: light)"
+        srcset="https://raw.githubusercontent.com/jayanithyan/jayanithyan/output/github-contribution-grid-snake.svg">
+
+<img src="https://raw.githubusercontent.com/jayanithyan/jayanithyan/output/github-contribution-grid-snake.svg"
+     alt="GitHub Contribution Snake">
+```
+
   </picture>
+</p>
+
+---
+
+# 💻 Coding Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jayanithyan&theme=tokyonight&hide_border=true&layout=compact" />
 </p>
 
 ---
 
 # 🎯 2026 Focus
 
-### 🧠 Engineering
-
-* Strengthen problem-solving and algorithmic thinking
-* Build more substantial software projects
-* Write cleaner, maintainable and scalable code
-* Understand software architecture instead of only learning frameworks
-* Improve system design fundamentals
-
 ### 🤖 AI & Data
 
-* Go deeper into machine learning and data science
-* Build practical AI-powered applications
-* Understand how AI systems integrate with real software
-* Experiment with LLMs, AI APIs and intelligent automation
-* Work on projects where AI solves an actual problem
+`Machine Learning` • `Data Science` • `AI Engineering` • `LLM Applications`
 
-### ⚙️ Systems
+Building practical AI systems and understanding how intelligent components fit into real software.
 
-* Develop a stronger understanding of backend architecture
-* Explore distributed systems concepts
-* Understand asynchronous and event-driven applications
-* Learn more about scalability, caching and communication between services
-* Move from individual applications toward understanding larger systems
+### ⚙️ Software Engineering
 
-### 🚀 Career & Open Source
+`System Design` • `Backend Architecture` • `Distributed Systems` • `Scalable Applications`
 
-* Build a strong engineering portfolio
-* Contribute to meaningful open-source projects
-* Participate in hackathons and technical competitions
-* Collaborate on real-world projects
-* Prepare for strong software engineering / AI opportunities
+Moving beyond individual applications toward understanding how larger software systems are designed and built.
+
+### 🧠 Problem Solving
+
+`DSA` • `Algorithms` • `Competitive Programming`
+
+Improving algorithmic thinking and becoming stronger at solving unfamiliar problems.
+
+### 🚀 Building
+
+`Real-World Projects` • `Open Source` • `Hackathons` • `Technical Experiments`
+
+Learning by building, breaking, debugging and rebuilding.
 
 ---
 
-# 📚 Currently Exploring
+# 🌱 Currently Exploring
 
-`Artificial Intelligence` • `Machine Learning` • `Data Science`
-`Software Engineering` • `System Design` • `Distributed Systems`
-`Backend Architecture` • `AI Engineering` • `DSA`
+<p align="center">
+
+<img src="https://img.shields.io/badge/AI%20Engineering-0e75b6?style=flat-square"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-0e75b6?style=flat-square"/>
+<img src="https://img.shields.io/badge/Data%20Science-0e75b6?style=flat-square"/>
+<img src="https://img.shields.io/badge/System%20Design-0e75b6?style=flat-square"/>
+<img src="https://img.shields.io/badge/Distributed%20Systems-0e75b6?style=flat-square"/>
+<img src="https://img.shields.io/badge/DSA-0e75b6?style=flat-square"/>
+<img src="https://img.shields.io/badge/Open%20Source-0e75b6?style=flat-square"/>
+
+</p>
 
 ---
 
