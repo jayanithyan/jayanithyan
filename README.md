@@ -13,44 +13,52 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=2800&pause=1000&color=0E75B6&center=true&vCenter=true&width=750&lines=AI+%26+Data+Science+Student;Software+Developer+in+Progress;Problem+Solver+%7C+Builder+%7C+Learner;Exploring+AI%2C+Data+%26+Software+Engineering" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=2800&pause=1000&color=0E75B6&center=true&vCenter=true&width=760&lines=AI+%26+Data+Science+Student;Software+Engineering+%7C+AI+%7C+Data;Building+Real+Projects;Problem+Solver+%7C+Builder+%7C+Learner" alt="Typing SVG"/>
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-<img align="right" width="360" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+<img align="right" width="350" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
-🎓 **B.Tech in Artificial Intelligence & Data Science**
+🎓 **B.Tech — Artificial Intelligence & Data Science**
 Velalar College of Engineering and Technology
 
-🎓 **BS in Data Science & Applications**
+🎓 **BS — Data Science & Applications**
 Indian Institute of Technology Madras
 
 💻 Interested in **Software Engineering, AI & Data**
 
-🧠 Improving **DSA, algorithms and problem-solving**
+🧠 Working on **DSA, algorithms and problem solving**
 
-🚀 Building real-world applications to understand software beyond the classroom
+🚀 Building projects to understand how real software systems work
 
-🤖 Exploring the intersection of **AI and software engineering**
+🤖 Exploring **AI engineering and practical AI applications**
 
-⚙️ Interested in **backend systems, architecture and scalable applications**
+⚙️ Interested in **backend architecture, system design and scalable systems**
 
-📚 Learning continuously and turning what I learn into projects.
+🌱 Learning continuously through projects, experiments and problem solving.
 
 <br clear="right"/>
 
 ---
 
-# ⚡ What I'm Into
+## ⚡ Areas I'm Exploring
 
 <p align="center">
 
-`Artificial Intelligence` • `Data Science` • `Software Engineering`
-`Backend Development` • `System Design` • `Distributed Systems`
-`DSA & Algorithms` • `AI Engineering` • `Open Source`
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-0e75b6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Science-0e75b6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Software%20Engineering-0e75b6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20Engineering-0e75b6?style=for-the-badge"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/System%20Design-0e75b6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Distributed%20Systems-0e75b6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DSA-0e75b6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Open%20Source-0e75b6?style=for-the-badge"/>
 
 </p>
 
@@ -58,51 +66,47 @@ Indian Institute of Technology Madras
 
 # 🛠️ Tech Stack
 
-### 👨‍💻 Languages
+### 💻 Languages
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=python,java,c,javascript" />
 </p>
 
-### 🤖 AI & Data Science
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
+### 🤖 AI & Data
 
 `NumPy` `Pandas` `Matplotlib` `Scikit-learn`
 
 ### 🌐 Frontend
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,javascript,react" />
 </p>
 
 ### ⚡ Backend
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=fastapi,nodejs" />
 </p>
 
 `REST APIs` `WebSockets` `Authentication`
 
-### 🗄️ Databases & Infrastructure
+### 🗄️ Databases
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=mongodb,postgresql,redis" />
 </p>
 
 ### ☁️ DevOps & Systems
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=docker,nginx,kafka,kubernetes" />
 </p>
 
 `Microservices` `Event-Driven Architecture` `Rate Limiting` `RBAC`
 
-### 🔧 Developer Tools
+### 🔧 Tools
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 </p>
 
@@ -110,30 +114,39 @@ Indian Institute of Technology Madras
 
 # 🚀 What I Build
 
-I enjoy building projects that help me understand how different parts of a software system work together.
+I like building projects that go beyond simply using a framework.
+
+My projects help me understand how different parts of a software system interact:
 
 ```text
-Frontend
-   ↓
-API
-   ↓
-Business Logic
-   ↓
-Database
-   ↓
-Caching / Communication
-   ↓
-Deployment
+        User
+         │
+         ▼
+     Frontend
+         │
+         ▼
+       API
+         │
+         ▼
+  Business Logic
+         │
+    ┌────┴────┐
+    ▼         ▼
+ Database   Services
+    │         │
+    └────┬────┘
+         ▼
+     Deployment
 ```
 
-My projects currently explore:
+Areas I work with include:
 
+* AI-powered applications
 * Full-stack applications
 * Backend systems
 * REST APIs
 * Real-time applications
-* Database-driven systems
-* AI-powered applications
+* Data-driven applications
 * Automation
 * Containerized applications
 * Service-oriented architectures
@@ -144,45 +157,47 @@ My projects currently explore:
 
 ### 🤖 Aura AI Assistant
 
-An AI-powered accessibility-focused assistant designed to help users interact with technology through intelligent voice and AI-based assistance.
+An accessibility-focused AI assistant designed to make technology more accessible through intelligent interaction and AI-powered assistance.
 
-**Focus:** AI • Accessibility • Voice Interaction • Automation
+**Focus:** `AI` `Accessibility` `Voice Interaction` `Automation`
 
 ---
 
 ### 🛡️ TexGuard AI
 
-An AI-powered project focused on applying intelligent text analysis to solve a practical problem.
+An AI-focused project exploring intelligent text analysis and practical application of AI to a real-world problem.
 
-**Focus:** AI • NLP • Text Analysis • Machine Learning
+**Focus:** `AI` `NLP` `Text Analysis` `Machine Learning`
 
 ---
 
 ### ⚡ FastAPI Backend
 
-A backend-focused project built to explore API architecture, authentication, database integration and production-oriented backend development.
+A backend project focused on API architecture, authentication, database integration and building a structured application backend.
 
-**Tech:** Python • FastAPI • REST APIs • Database • Docker
+**Tech:** `Python` `FastAPI` `REST API` `Database` `Docker`
 
 ---
 
 ### 🥾 Trekking Management Application
 
-A complete management application developed as part of my Modern Application Development coursework.
+A management application developed as part of my Modern Application Development coursework.
 
-**Tech:** Python • FastAPI • HTML • CSS • JavaScript
+**Tech:** `Python` `FastAPI` `HTML` `CSS` `JavaScript`
 
 ---
 
 # 🧠 LeetCode
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/jayanithyan1?theme=nord&font=Fira%20Code&ext=heatmap" alt="Jayanithyan's LeetCode Stats"/>
+  <a href="https://leetcode.com/u/jayanithyan1/">
+    <img src="https://leetcard.jacoblin.cool/jayanithyan1?theme=nord&font=Fira%20Code&ext=heatmap" alt="Jayanithyan's LeetCode Stats"/>
+  </a>
 </p>
 
 <p align="center">
   <a href="https://leetcode.com/u/jayanithyan1/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Visit%20My%20LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
 </p>
 
@@ -191,16 +206,25 @@ A complete management application developed as part of my Modern Application Dev
 # 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=jayanithyan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayanithyan&layout=donut&theme=tokyonight&hide_border=true&langs_count=8"/>
+  <a href="https://github.com/jayanithyan">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=jayanithyan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
+  </a>
+
+  <a href="https://github.com/jayanithyan">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayanithyan&layout=donut&theme=tokyonight&hide_border=true&langs_count=8"/>
+  </a>
 </p>
+
+> The language card represents the languages detected in your GitHub repositories; it is a measure of repository code usage, not a measure of proficiency.
 
 ---
 
 # 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jayanithyan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=jayanithyan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Profile Trophies"/>
+  </a>
 </p>
 
 ---
@@ -208,7 +232,7 @@ A complete management application developed as part of my Modern Application Dev
 # 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jayanithyan&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jayanithyan&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="GitHub Contribution Activity"/>
 </p>
 
 ---
@@ -233,55 +257,59 @@ A complete management application developed as part of my Modern Application Dev
 
 ---
 
-# 💻 Coding Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jayanithyan&theme=tokyonight&hide_border=true&layout=compact" />
-</p>
-
----
-
 # 🎯 2026 Focus
 
 ### 🤖 AI & Data
 
+Going deeper into:
+
 `Machine Learning` • `Data Science` • `AI Engineering` • `LLM Applications`
 
-Building practical AI systems and understanding how intelligent components fit into real software.
+Building practical AI systems and understanding how intelligent components fit into real applications.
 
 ### ⚙️ Software Engineering
 
-`System Design` • `Backend Architecture` • `Distributed Systems` • `Scalable Applications`
+Exploring:
 
-Moving beyond individual applications toward understanding how larger software systems are designed and built.
+`System Design` • `Backend Architecture` • `Distributed Systems` • `Scalability`
+
+Moving from simply building applications toward understanding how larger software systems are designed.
 
 ### 🧠 Problem Solving
 
-`DSA` • `Algorithms` • `Competitive Programming`
+Strengthening:
 
-Improving algorithmic thinking and becoming stronger at solving unfamiliar problems.
+`DSA` • `Algorithms` • `Problem Solving`
+
+The goal is to become better at approaching unfamiliar problems rather than simply increasing the number of solved questions.
 
 ### 🚀 Building
 
-`Real-World Projects` • `Open Source` • `Hackathons` • `Technical Experiments`
+Focusing on:
 
-Learning by building, breaking, debugging and rebuilding.
+`Real-World Projects` • `Open Source` • `Hackathons` • `Technical Experiments`
 
 ---
 
 # 🌱 Currently Exploring
 
-<p align="center">
+```text
+AI Engineering
+      │
+      ├── Machine Learning
+      ├── LLM Applications
+      └── AI-powered Software
 
-<img src="https://img.shields.io/badge/AI%20Engineering-0e75b6?style=flat-square"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-0e75b6?style=flat-square"/>
-<img src="https://img.shields.io/badge/Data%20Science-0e75b6?style=flat-square"/>
-<img src="https://img.shields.io/badge/System%20Design-0e75b6?style=flat-square"/>
-<img src="https://img.shields.io/badge/Distributed%20Systems-0e75b6?style=flat-square"/>
-<img src="https://img.shields.io/badge/DSA-0e75b6?style=flat-square"/>
-<img src="https://img.shields.io/badge/Open%20Source-0e75b6?style=flat-square"/>
+Software Engineering
+      │
+      ├── Backend Architecture
+      ├── System Design
+      └── Distributed Systems
 
-</p>
+Problem Solving
+      │
+      └── DSA & Algorithms
+```
 
 ---
 
@@ -290,15 +318,15 @@ Learning by building, breaking, debugging and rebuilding.
 <p align="center">
 
 <a href="https://www.linkedin.com/in/jayanithyan-m-r-b51aa0331/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://www.instagram.com/jayy.ryx/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <a href="https://leetcode.com/u/jayanithyan1/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
 </p>
