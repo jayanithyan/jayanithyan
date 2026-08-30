@@ -1,4 +1,4 @@
-👋 Hey, I'm Jayanithyan M R
+# 👋 Hey, I'm Jayanithyan M R
 
 <p align="center">
   <a href="https://github.com/jayanithyan">
@@ -7,16 +7,22 @@
   <a href="https://github.com/jayanithyan?tab=followers">
     <img src="https://img.shields.io/github/followers/jayanithyan?label=Followers&style=flat" alt="Followers"/>
   </a>
-</p><p align="center">
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=2800&pause=1000&color=0E75B6&center=true&vCenter=true&width=760&lines=AI+%26+Data+Science+Student;Software+Engineering+%7C+AI+%7C+Data;Building+Real+Projects;Problem+Solver+%7C+Builder+%7C+Learner" alt="Typing Animation"/>
-</p>---
+</p>
 
-🧑‍💻 About Me
+---
 
-<img align="right" width="350" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">🎓 B.Tech — Artificial Intelligence & Data Science
+## 🧑‍💻 About Me
+
+<img align="right" width="350" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" alt="Coding animation"/>
+
+🎓 **B.Tech — Artificial Intelligence & Data Science**
 Velalar College of Engineering and Technology
 
-🎓 BS — Data Science & Applications
+🎓 **BS — Data Science & Applications**
 Indian Institute of Technology Madras
 
 💻 Interested in Software Engineering, AI & Data
@@ -31,10 +37,13 @@ Indian Institute of Technology Madras
 
 📚 Learning continuously through projects, experiments and problem solving.
 
-<br clear="right"/>---
+<br clear="right"/>
 
-💻 "$ whoami"
+---
 
+## 💻 `$ whoami`
+
+```text
 ┌──────────────────────────────────────────────────┐
 │                                                  │
 │  jayanithyan@github:~$ whoami                    │
@@ -55,315 +64,365 @@ Indian Institute of Technology Madras
 │  ███████████████████░░  Building...              │
 │                                                  │
 └──────────────────────────────────────────────────┘
+```
 
 ---
 
-⚡ Areas I'm Exploring
+## ⚡ Areas I'm Exploring
 
-<p align="center"><img src="https://img.shields.io/badge/Artificial%20Intelligence-0e75b6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data%20Science-0e75b6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Software%20Engineering-0e75b6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI%20Engineering-0e75b6?style=for-the-badge"/><br/><img src="https://img.shields.io/badge/System%20Design-0e75b6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Distributed%20Systems-0e75b6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DSA-0e75b6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Open%20Source-0e75b6?style=for-the-badge"/></p>---
+<p align="center">
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-0e75b6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data%20Science-0e75b6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Software%20Engineering-0e75b6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI%20Engineering-0e75b6?style=for-the-badge"/>
+  <br/>
+  <img src="https://img.shields.io/badge/System%20Design-0e75b6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Distributed%20Systems-0e75b6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DSA-0e75b6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Open%20Source-0e75b6?style=for-the-badge"/>
+</p>
 
-🛠️ Tech Stack
+---
 
-💻 Languages
+## 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,c,javascript" />
-</p>🤖 AI & Data Science
-
-"NumPy" "Pandas" "Matplotlib" "Scikit-learn"
-
-🌐 Frontend
+### 💻 Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react" />
-</p>⚡ Backend
+  <img src="https://skillicons.dev/icons?i=python,java,c,javascript" alt="Languages"/>
+</p>
+
+### 🤖 AI & Data Science
+
+`NumPy` `Pandas` `Matplotlib` `Scikit-learn`
+
+### 🌐 Frontend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=fastapi,nodejs" />
-</p>"REST APIs" "WebSockets" "Authentication"
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react" alt="Frontend"/>
+</p>
 
-🗄️ Databases
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,redis" />
-</p>☁️ DevOps & Systems
+### ⚡ Backend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,nginx,kafka,kubernetes" />
-</p>"Microservices" "Event-Driven Architecture" "Rate Limiting" "RBAC"
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs" alt="Backend"/>
+</p>
 
-🔧 Tools
+`REST APIs` `WebSockets` `Authentication`
+
+### 🗄️ Databases
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
-</p>---
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,redis" alt="Databases"/>
+</p>
 
-🚀 What I Build
+### ☁️ DevOps & Systems
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,nginx,kafka,kubernetes" alt="DevOps"/>
+</p>
+
+`Microservices` `Event-Driven Architecture` `Rate Limiting` `RBAC`
+
+### 🔧 Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" alt="Tools"/>
+</p>
+
+---
+
+## 🚀 What I Build
 
 I like building projects that go beyond simply using a framework.
 
 My projects help me understand how different parts of a software system interact:
 
-        User
-         │
-         ▼
-     Frontend
-         │
-         ▼
-       API
-         │
-         ▼
-  Business Logic
-         │
-    ┌────┴────┐
-    ▼         ▼
- Database   Services
-    │         │
-    └────┬────┘
-         ▼
-     Deployment
+```text
+User
+ │
+ ▼
+Frontend
+ │
+ ▼
+API
+ │
+ ▼
+Business Logic
+ │
+ ├──────────────┐
+ ▼              ▼
+Database      Services
+ │              │
+ └──────┬───────┘
+        ▼
+   Deployment
+```
 
-Areas I work with include:
+### Areas I work with
 
-- AI-powered applications
-- Full-stack applications
-- Backend systems
-- REST APIs
-- Real-time applications
-- Data-driven applications
-- Automation
-- Containerized applications
-- Service-oriented architectures
+* AI-powered applications
+* Full-stack applications
+* Backend systems
+* REST APIs
+* Real-time applications
+* Data-driven applications
+* Automation
+* Containerized applications
+* Service-oriented architectures
 
 ---
 
-📌 Featured Projects
+## 📌 Featured Projects
 
 <table>
-<tr><td width="50%">🤖 Aura AI Assistant
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 Aura AI Assistant
 
 An accessibility-focused AI assistant designed to make technology more accessible through intelligent interaction and AI-powered assistance.
 
-Focus
+**Focus**
 
-"AI" "Accessibility" "Voice Interaction" "Automation"
+`AI` `Accessibility` `Voice Interaction` `Automation`
 
-</td><td width="50%">🛡️ TexGuard AI
+</td>
+
+<td width="50%" valign="top">
+
+### 🛡️ TexGuard AI
 
 An AI-focused project exploring intelligent text analysis and practical application of AI to a real-world problem.
 
-Focus
+**Focus**
 
-"AI" "NLP" "Text Analysis" "Machine Learning"
+`AI` `NLP` `Text Analysis` `Machine Learning`
 
-</td></tr><tr><td width="50%">⚡ FastAPI Backend
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### ⚡ FastAPI Backend
 
 A backend project focused on API architecture, authentication, database integration and structured backend development.
 
-Tech
+**Tech**
 
-"Python" "FastAPI" "REST API" "Database" "Docker"
+`Python` `FastAPI` `REST API` `Database` `Docker`
 
-</td><td width="50%">🥾 Trekking Management
+</td>
+
+<td width="50%" valign="top">
+
+### 🥾 Trekking Management
 
 A management application developed as part of my Modern Application Development coursework.
 
-Tech
+**Tech**
 
-"Python" "FastAPI" "HTML" "CSS" "JavaScript"
+`Python` `FastAPI` `HTML` `CSS` `JavaScript`
 
-</td></tr>
-</table>---
-
-🧠 My Engineering Loop
-
-        ┌──────────────┐
-        │   Discover   │
-        └──────┬───────┘
-               │
-               ▼
-        ┌──────────────┐
-        │    Learn     │
-        └──────┬───────┘
-               │
-               ▼
-        ┌──────────────┐
-        │    Build     │
-        └──────┬───────┘
-               │
-               ▼
-        ┌──────────────┐
-        │    Break     │
-        └──────┬───────┘
-               │
-               ▼
-        ┌──────────────┐
-        │    Debug     │
-        └──────┬───────┘
-               │
-               ▼
-        ┌──────────────┐
-        │  Understand  │
-        └──────┬───────┘
-               │
-               ▼
-        ┌──────────────┐
-        │ Build Better │
-        └──────────────┘
+</td>
+</tr>
+</table>
 
 ---
 
-🧠 LeetCode
+## 🧠 My Engineering Loop
+
+```text
+┌──────────────┐
+│   Discover   │
+└──────┬───────┘
+       │
+       ▼
+┌──────────────┐
+│    Learn     │
+└──────┬───────┘
+       │
+       ▼
+┌──────────────┐
+│    Build     │
+└──────┬───────┘
+       │
+       ▼
+┌──────────────┐
+│    Break     │
+└──────┬───────┘
+       │
+       ▼
+┌──────────────┐
+│    Debug     │
+└──────┬───────┘
+       │
+       ▼
+┌──────────────┐
+│  Understand  │
+└──────┬───────┘
+       │
+       ▼
+┌──────────────┐
+│ Build Better │
+└──────────────┘
+```
+
+---
+
+## 🧠 LeetCode
 
 <p align="center">
   <a href="https://leetcode.com/u/jayanithyan1/">
-    <img
-      src="https://leetcard.jacoblin.cool/jayanithyan1?theme=nord&font=Fira%20Code&ext=heatmap"
-      alt="Jayanithyan's LeetCode Stats"
-    />
+    <img src="https://leetcard.jacoblin.cool/jayanithyan1?theme=nord&font=Fira%20Code&ext=heatmap" alt="Jayanithyan's LeetCode Stats"/>
   </a>
-</p><p align="center">
+</p>
+
+<p align="center">
   <a href="https://leetcode.com/u/jayanithyan1/">
-    <img src="https://img.shields.io/badge/Visit%20My%20LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Visit%20My%20LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="Visit LeetCode"/>
   </a>
-</p>---
+</p>
 
-📊 GitHub Stats
+---
 
-<p align="center"><img
-src="https://github-readme-stats.vercel.app/api?username=jayanithyan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"
-height="180"
-alt="GitHub Stats"
-/>
+## 📊 GitHub Stats
 
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayanithyan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-height="180"
-alt="Top Languages"
-/>
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=jayanithyan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub Stats"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayanithyan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+</p>
 
-</p><p align="center"><img
-src="https://streak-stats.demolab.com?user=jayanithyan&theme=tokyonight&hide_border=true"
-width="70%"
-alt="GitHub Streak"
-/>
+<p align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=jayanithyan&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
 
-</p>---
+---
 
-📈 GitHub Contribution Activity
+## 📈 GitHub Activity
 
 <p align="center">
   <img
-    src="./contrib-heatmap.svg"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=jayanithyan&theme=tokyo-night&hide_border=true&area=true"
     width="95%"
-    alt="Jayanithyan GitHub Contribution Heatmap"
+    alt="Jayanithyan GitHub Activity Graph"
   />
-</p><p align="center">
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
   <img
-    src="./dist/github-contribution-grid-snake.svg"
+    src="https://github-profile-trophy.vercel.app/?username=jayanithyan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7"
     width="95%"
-    alt="GitHub Contribution Snake"
+    alt="GitHub Trophies"
   />
-</p>---
+</p>
 
-🏆 GitHub Trophies
+---
 
-<p align="center"><img
-src="https://github-profile-trophy.vercel.app/?username=jayanithyan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7"
-width="95%"
-alt="GitHub Trophies"
-/>
+## 🎯 2026 Focus
 
-</p>---
+### 🤖 AI & Data
 
-🎯 2026 Focus
-
-🤖 AI & Data
-
-"Machine Learning" • "Data Science" • "AI Engineering" • "LLM Applications"
+`Machine Learning` • `Data Science` • `AI Engineering` • `LLM Applications`
 
 Building practical AI systems and understanding how intelligent components fit into real applications.
 
-⚙️ Software Engineering
+### ⚙️ Software Engineering
 
-"System Design" • "Backend Architecture" • "Distributed Systems" • "Scalability"
+`System Design` • `Backend Architecture` • `Distributed Systems` • `Scalability`
 
 Moving from simply building applications toward understanding how larger software systems are designed.
 
-🧠 Problem Solving
+### 🧠 Problem Solving
 
-"DSA" • "Algorithms" • "Problem Solving"
+`DSA` • `Algorithms` • `Problem Solving`
 
 Strengthening algorithmic thinking and becoming better at approaching unfamiliar problems.
 
-🚀 Building
+### 🚀 Building
 
-"Real-World Projects" • "Open Source" • "Hackathons" • "Technical Experiments"
+`Real-World Projects` • `Open Source` • `Hackathons` • `Technical Experiments`
 
 Learning by building, debugging and continuously improving.
 
 ---
 
-🌱 Currently Exploring
+## 🌱 Currently Exploring
 
-<p align="center"><img src="https://img.shields.io/badge/AI%20Engineering-0e75b6?style=flat-square"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-0e75b6?style=flat-square"/>
-<img src="https://img.shields.io/badge/Data%20Science-0e75b6?style=flat-square"/>
-<img src="https://img.shields.io/badge/LLM%20Applications-0e75b6?style=flat-square"/>
-<img src="https://img.shields.io/badge/System%20Design-0e75b6?style=flat-square"/>
-<img src="https://img.shields.io/badge/Distributed%20Systems-0e75b6?style=flat-square"/>
-<img src="https://img.shields.io/badge/DSA-0e75b6?style=flat-square"/>
-<img src="https://img.shields.io/badge/Open%20Source-0e75b6?style=flat-square"/></p>---
-
-📚 What I'm Learning
-
-AI Engineering
-     │
-     ├── Machine Learning
-     ├── NLP
-     ├── LLM Applications
-     └── AI Systems
-     
-Software Engineering
-     │
-     ├── Backend Architecture
-     ├── APIs
-     ├── System Design
-     ├── Distributed Systems
-     └── Scalability
-
-Problem Solving
-     │
-     ├── Data Structures
-     ├── Algorithms
-     ├── Recursion
-     ├── Optimization
-     └── Competitive Problem Solving
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20Engineering-0e75b6?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-0e75b6?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Data%20Science-0e75b6?style=flat-square"/>
+  <img src="https://img.shields.io/badge/LLM%20Applications-0e75b6?style=flat-square"/>
+  <img src="https://img.shields.io/badge/System%20Design-0e75b6?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Distributed%20Systems-0e75b6?style=flat-square"/>
+  <img src="https://img.shields.io/badge/DSA-0e75b6?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Open%20Source-0e75b6?style=flat-square"/>
+</p>
 
 ---
 
-🌐 Connect With Me
+## 📚 What I'm Learning
 
-<p align="center"><a href="https://www.linkedin.com/in/jayanithyan-m-r-b51aa0331/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a><a href="https://www.instagram.com/jayy.ryx/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a><a href="https://leetcode.com/u/jayanithyan1/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a><a href="https://github.com/jayanithyan">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a></p>---
+```text
+AI Engineering
+ │
+ ├── Machine Learning
+ ├── NLP
+ ├── LLM Applications
+ └── AI Systems
+
+Software Engineering
+ │
+ ├── Backend Architecture
+ ├── APIs
+ ├── System Design
+ ├── Distributed Systems
+ └── Scalability
+
+Problem Solving
+ │
+ ├── Data Structures
+ ├── Algorithms
+ ├── Recursion
+ ├── Optimization
+ └── Competitive Problem Solving
+```
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/jayanithyan-m-r-b51aa0331/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/jayy.ryx/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://leetcode.com/u/jayanithyan1/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <a href="https://github.com/jayanithyan">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+---
 
 <p align="center">
   <b>Build things. Break things. Understand why. Build better.</b>
-</p><p align="center">
+</p>
+
+<p align="center">
   <i>Learning continuously. Building intentionally.</i>
-</p><p align="center">
+</p>
+
+<p align="center">
   <sub>⚡ One commit at a time.</sub>
 </p>
