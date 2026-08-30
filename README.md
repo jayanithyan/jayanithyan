@@ -17,7 +17,7 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" width="350" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" alt="Coding animation"/>
+<img align="right" width="350" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" alt="Coding Animation"/>
 
 🎓 **B.Tech — Artificial Intelligence & Data Science**
 Velalar College of Engineering and Technology
@@ -71,15 +71,15 @@ Indian Institute of Technology Madras
 ## ⚡ Areas I'm Exploring
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-0e75b6?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Data%20Science-0e75b6?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Software%20Engineering-0e75b6?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AI%20Engineering-0e75b6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-0e75b6?style=for-the-badge" alt="Artificial Intelligence"/>
+  <img src="https://img.shields.io/badge/Data%20Science-0e75b6?style=for-the-badge" alt="Data Science"/>
+  <img src="https://img.shields.io/badge/Software%20Engineering-0e75b6?style=for-the-badge" alt="Software Engineering"/>
+  <img src="https://img.shields.io/badge/AI%20Engineering-0e75b6?style=for-the-badge" alt="AI Engineering"/>
   <br/>
-  <img src="https://img.shields.io/badge/System%20Design-0e75b6?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Distributed%20Systems-0e75b6?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/DSA-0e75b6?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Open%20Source-0e75b6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/System%20Design-0e75b6?style=for-the-badge" alt="System Design"/>
+  <img src="https://img.shields.io/badge/Distributed%20Systems-0e75b6?style=for-the-badge" alt="Distributed Systems"/>
+  <img src="https://img.shields.io/badge/DSA-0e75b6?style=for-the-badge" alt="DSA"/>
+  <img src="https://img.shields.io/badge/Open%20Source-0e75b6?style=for-the-badge" alt="Open Source"/>
 </p>
 
 ---
@@ -89,7 +89,7 @@ Indian Institute of Technology Madras
 ### 💻 Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,c,javascript" alt="Languages"/>
+  <img src="https://skillicons.dev/icons?i=python,java,c,javascript" alt="Programming Languages"/>
 </p>
 
 ### 🤖 AI & Data Science
@@ -99,13 +99,13 @@ Indian Institute of Technology Madras
 ### 🌐 Frontend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react" alt="Frontend"/>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react" alt="Frontend Technologies"/>
 </p>
 
 ### ⚡ Backend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=fastapi,nodejs" alt="Backend"/>
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs" alt="Backend Technologies"/>
 </p>
 
 `REST APIs` `WebSockets` `Authentication`
@@ -119,7 +119,7 @@ Indian Institute of Technology Madras
 ### ☁️ DevOps & Systems
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,nginx,kafka,kubernetes" alt="DevOps"/>
+  <img src="https://skillicons.dev/icons?i=docker,nginx,kafka,kubernetes" alt="DevOps and Systems"/>
 </p>
 
 `Microservices` `Event-Driven Architecture` `Rate Limiting` `RBAC`
@@ -127,7 +127,7 @@ Indian Institute of Technology Madras
 ### 🔧 Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" alt="Tools"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" alt="Development Tools"/>
 </p>
 
 ---
@@ -275,13 +275,19 @@ A management application developed as part of my Modern Application Development 
 
 <p align="center">
   <a href="https://leetcode.com/u/jayanithyan1/">
-    <img src="https://leetcard.jacoblin.cool/jayanithyan1?theme=nord&font=Fira%20Code&ext=heatmap" alt="Jayanithyan's LeetCode Stats"/>
+    <img
+      src="https://leetcard.jacoblin.cool/jayanithyan1?theme=nord&font=Fira%20Code&ext=heatmap"
+      alt="Jayanithyan's LeetCode Stats"
+    />
   </a>
 </p>
 
 <p align="center">
   <a href="https://leetcode.com/u/jayanithyan1/">
-    <img src="https://img.shields.io/badge/Visit%20My%20LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="Visit LeetCode"/>
+    <img
+      src="https://img.shields.io/badge/Visit%20My%20LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"
+      alt="Visit My LeetCode"
+    />
   </a>
 </p>
 
@@ -290,12 +296,24 @@ A management application developed as part of my Modern Application Development 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=jayanithyan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub Stats"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayanithyan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=jayanithyan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
+    height="180"
+    alt="Jayanithyan GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayanithyan&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"
+    height="180"
+    alt="Jayanithyan Top Languages"
+  />
 </p>
 
 <p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=jayanithyan&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img
+    src="https://streak-stats.demolab.com?user=jayanithyan&theme=tokyonight&hide_border=true"
+    width="70%"
+    alt="Jayanithyan GitHub Streak"
+  />
 </p>
 
 ---
@@ -303,23 +321,13 @@ A management application developed as part of my Modern Application Development 
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=jayanithyan&theme=tokyo-night&hide_border=true&area=true"
-    width="95%"
-    alt="Jayanithyan GitHub Activity Graph"
-  />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=jayanithyan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7"
-    width="95%"
-    alt="GitHub Trophies"
-  />
+  <a href="https://github.com/jayanithyan">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=jayanithyan&theme=tokyo-night&hide_border=true&area=true"
+      width="95%"
+      alt="Jayanithyan GitHub Activity Graph"
+    />
+  </a>
 </p>
 
 ---
@@ -355,14 +363,14 @@ Learning by building, debugging and continuously improving.
 ## 🌱 Currently Exploring
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI%20Engineering-0e75b6?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-0e75b6?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Data%20Science-0e75b6?style=flat-square"/>
-  <img src="https://img.shields.io/badge/LLM%20Applications-0e75b6?style=flat-square"/>
-  <img src="https://img.shields.io/badge/System%20Design-0e75b6?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Distributed%20Systems-0e75b6?style=flat-square"/>
-  <img src="https://img.shields.io/badge/DSA-0e75b6?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Open%20Source-0e75b6?style=flat-square"/>
+  <img src="https://img.shields.io/badge/AI%20Engineering-0e75b6?style=flat-square" alt="AI Engineering"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-0e75b6?style=flat-square" alt="Machine Learning"/>
+  <img src="https://img.shields.io/badge/Data%20Science-0e75b6?style=flat-square" alt="Data Science"/>
+  <img src="https://img.shields.io/badge/LLM%20Applications-0e75b6?style=flat-square" alt="LLM Applications"/>
+  <img src="https://img.shields.io/badge/System%20Design-0e75b6?style=flat-square" alt="System Design"/>
+  <img src="https://img.shields.io/badge/Distributed%20Systems-0e75b6?style=flat-square" alt="Distributed Systems"/>
+  <img src="https://img.shields.io/badge/DSA-0e75b6?style=flat-square" alt="DSA"/>
+  <img src="https://img.shields.io/badge/Open%20Source-0e75b6?style=flat-square" alt="Open Source"/>
 </p>
 
 ---
@@ -400,16 +408,28 @@ Problem Solving
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jayanithyan-m-r-b51aa0331/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
   </a>
   <a href="https://www.instagram.com/jayy.ryx/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img
+      src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+      alt="Instagram"
+    />
   </a>
   <a href="https://leetcode.com/u/jayanithyan1/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+    <img
+      src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"
+      alt="LeetCode"
+    />
   </a>
   <a href="https://github.com/jayanithyan">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img
+      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
   </a>
 </p>
 
