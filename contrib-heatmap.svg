@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg"
-    width="835"
+    width="850"
     height="200"
-    viewBox="0 0 835 200">
+    viewBox="0 0 850 200">
 
     <style>
 
@@ -4405,6 +4405,90 @@
                 rx="3"
                 fill="#0e4429"
                 style="animation-delay:1.335s">
+            </rect>
+            
+
+            <rect
+                class="cell"
+                x="815"
+                y="35"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#0e4429"
+                style="animation-delay:1.300s">
+            </rect>
+            
+
+            <rect
+                class="cell"
+                x="815"
+                y="50"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#0e4429"
+                style="animation-delay:1.310s">
+            </rect>
+            
+
+            <rect
+                class="cell"
+                x="815"
+                y="65"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#0e4429"
+                style="animation-delay:1.320s">
+            </rect>
+            
+
+            <rect
+                class="cell"
+                x="815"
+                y="80"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#006d32"
+                style="animation-delay:1.330s">
+            </rect>
+            
+
+            <rect
+                class="cell"
+                x="815"
+                y="95"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#0e4429"
+                style="animation-delay:1.340s">
+            </rect>
+            
+
+            <rect
+                class="cell"
+                x="815"
+                y="110"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#0e4429"
+                style="animation-delay:1.350s">
+            </rect>
+            
+
+            <rect
+                class="cell"
+                x="815"
+                y="125"
+                width="12"
+                height="12"
+                rx="3"
+                fill="#161b22"
+                style="animation-delay:1.360s">
             </rect>
             
 
