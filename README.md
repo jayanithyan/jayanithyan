@@ -322,7 +322,7 @@ A management application developed as part of my Modern Application Development 
 </p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/jayanithyan/jayanithyan/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="32%" alt="Jayanithyan Repos Per Language"/>
-  <img src="https://raw.githubusercontent.com/jayanithyan/jayanithyan/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="32%" alt="Jayanithyan Most Commit Language"/>
+  [!(https://github-readme-activity-graph.vercel.app/graph?username=jayanithyan&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
   <img src="https://raw.githubusercontent.com/jayanithyan/jayanithyan/main/profile-summary-card-output/tokyonight/4-productive-time.svg" width="32%" alt="Jayanithyan Productive Time"/>
 </p>
 
